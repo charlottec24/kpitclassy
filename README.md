@@ -1,2 +1,4 @@
 kpitclassy
 ==========
+
+puts "hello"
