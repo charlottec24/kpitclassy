@@ -1,3 +1,3 @@
-puts hello world James
+puts "hello world James"
 
-puts welcome as well
+puts "welcome as well"
